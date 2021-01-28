@@ -2,7 +2,7 @@
 Hangman project for LaborChart
 
 ## How To Run:
-Download the "Hangman" folder and open index.html in a web browser.
+Download the project and open index.html in a web browser.
 
 ## How To Play:
 - Use your keyboard to guess a letter.
